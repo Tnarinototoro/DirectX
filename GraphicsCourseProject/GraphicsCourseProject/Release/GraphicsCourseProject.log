@@ -1,0 +1,27 @@
+﻿  GraphicsCourseProject.cpp
+e:\cpp\graphicscourseproject\graphicscourseproject\resource.h(335): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\cpp\graphicscourseproject\graphicscourseproject\resource.h(339): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+e:\cpp\graphicscourseproject\graphicscourseproject\resource.h(340): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+e:\cpp\graphicscourseproject\graphicscourseproject\resource.h(432): warning C4305: “+=”: 从“double”到“float”截断
+e:\cpp\graphicscourseproject\graphicscourseproject\resource.h(447): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\cpp\graphicscourseproject\graphicscourseproject\graphicscourseproject.cpp(261): warning C4305: “参数”: 从“unsigned long”到“COLOR16”截断
+e:\cpp\graphicscourseproject\graphicscourseproject\graphicscourseproject.cpp(261): warning C4309: “参数”: 截断常量值
+e:\cpp\graphicscourseproject\graphicscourseproject\graphicscourseproject.cpp(263): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+e:\cpp\graphicscourseproject\graphicscourseproject\graphicscourseproject.cpp(264): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+e:\cpp\graphicscourseproject\graphicscourseproject\graphicscourseproject.cpp(270): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+e:\cpp\graphicscourseproject\graphicscourseproject\graphicscourseproject.cpp(271): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+e:\cpp\graphicscourseproject\graphicscourseproject\graphicscourseproject.cpp(272): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+e:\cpp\graphicscourseproject\graphicscourseproject\graphicscourseproject.cpp(273): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+e:\cpp\graphicscourseproject\graphicscourseproject\graphicscourseproject.cpp(274): warning C4305: “参数”: 从“unsigned long”到“COLOR16”截断
+e:\cpp\graphicscourseproject\graphicscourseproject\graphicscourseproject.cpp(274): warning C4309: “参数”: 截断常量值
+e:\cpp\graphicscourseproject\graphicscourseproject\graphicscourseproject.cpp(426): warning C4018: “<”: 有符号/无符号不匹配
+e:\cpp\graphicscourseproject\graphicscourseproject\graphicscourseproject.cpp(448): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\cpp\graphicscourseproject\graphicscourseproject\graphicscourseproject.cpp(591): warning C4305: “+=”: 从“double”到“float”截断
+e:\cpp\graphicscourseproject\graphicscourseproject\graphicscourseproject.cpp(603): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+e:\cpp\graphicscourseproject\graphicscourseproject\graphicscourseproject.cpp(604): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+  正在生成代码
+  1 of 444 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  GraphicsCourseProject.vcxproj -> E:\cpp\GraphicsCourseProject\Release\GraphicsCourseProject.exe
