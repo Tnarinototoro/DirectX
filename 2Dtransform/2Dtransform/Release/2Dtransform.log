@@ -1,0 +1,15 @@
+﻿  2Dtransform.cpp
+c:\users\administrator\source\repos\2dtransform\2dtransform\resource.h(12): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\administrator\source\repos\2dtransform\2dtransform\resource.h(80): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\administrator\source\repos\2dtransform\2dtransform\resource.h(86): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\administrator\source\repos\2dtransform\2dtransform\resource.h(86): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+c:\users\administrator\source\repos\2dtransform\2dtransform\resource.h(87): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\administrator\source\repos\2dtransform\2dtransform\resource.h(87): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+c:\users\administrator\source\repos\2dtransform\2dtransform\resource.h(91): warning C4101: “m”: 未引用的局部变量
+c:\users\administrator\source\repos\2dtransform\2dtransform\resource.h(159): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码
+  3 of 76 functions ( 3.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  2Dtransform.vcxproj -> C:\Users\Administrator\source\repos\2Dtransform\Release\2Dtransform.exe
